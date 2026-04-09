@@ -38,14 +38,6 @@ Android (Java, SQLite, Firebase Auth) • Flutter (Beginner)
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nnanjum1&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnanjum1&layout=compact&theme=tokyonight" width="48%">
-</p>
-
----
-
 ## 📫 Connect With Me  
 📧 Email: **najmunnanjum121@gmail.com**  
 🔗 LinkedIn: **www.linkedin.com/in/najmunnaharanjum**
