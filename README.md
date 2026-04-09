@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Najmun Nahar Anjum Banner" width="100%">
+</p>
+
 ### Hi there! 👋  
 I'm **Najmun Nahar Anjum**, a **CSE student** and a growing **Web Application Developer** who loves turning ideas into real, working systems. I enjoy building clean, functional projects—whether it's a PHP auth system, a small ML experiment, or a complete app.
 
