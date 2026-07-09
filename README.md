@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Najmun Nahar Anjum Banner" width="100%">
+  <img src="banner.jpeg" alt="Najmun Nahar Anjum Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Najmun Nahar Anjum</h1>
