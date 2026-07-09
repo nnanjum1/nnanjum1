@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Najmun Nahar Anjum</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React+%7C+Next.js+Enthusiast;Interested in Machine Learning;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React+%7C+Next.js+Enthusiast;Interested+in+Machine+Learning" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 👋 I'm **Najmun Nahar Anjum**, a passionate **MERN Stack Developer** from **Sylhet, Bangladesh**.
+- 👋 I'm **[nnanjum1](https://github.com/nnanjum1)**, a passionate **MERN Stack Developer** from **Sylhet, Bangladesh**.
 - 💻 I build responsive full-stack applications using **MongoDB, Express.js, React.js, Next.js, Node.js**, and **Tailwind CSS**.
 - 🚀 Currently exploring **advanced Next.js**, improving my **Data Structures & Algorithms** skills through **LeetCode**.
 - 🛠️ Experienced with **Firebase Authentication**, **REST APIs**, **JWT**, **Stripe Payment Integration**, and **MongoDB Atlas**.
