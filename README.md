@@ -19,7 +19,7 @@
 - 👋 I'm **[nnanjum1](https://github.com/nnanjum1)**, a passionate **MERN Stack Developer** from **Sylhet, Bangladesh**.
 - 💻 I build responsive full-stack applications using **MongoDB, Express.js, React.js, Next.js, Node.js**, and **Tailwind CSS**.
 - 🚀 Currently exploring **advanced Next.js**, improving my **Data Structures & Algorithms** skills through **LeetCode**.
-- 🛠️ Experienced with **Firebase Authentication**, **REST APIs**, **JWT**, **Stripe Payment Integration**, and **MongoDB Atlas**.
+- 🛠️ Familiar with **Firebase Authentication**, **REST APIs**, **JWT**, **Stripe Payment Integration**, and **MongoDB Atlas**.
 - 🌐 Explore my **[Portfolio](https://professional-portfolio-omega-tan.vercel.app)**.
 - 📫 Reach me at **najmunnanjum121@gmail.com**.
 
